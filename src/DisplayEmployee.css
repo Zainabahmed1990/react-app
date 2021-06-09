@@ -1,0 +1,20 @@
+.card {
+	display: flex;
+	background: #c6dde8;
+	border-radius: 5px;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+.id {
+	width: 40px;
+	font-weight: bold;
+}
+.name {
+	flex: 2;
+}
+.salary {
+	flex: 1;
+}
+.gender {
+	flex: 1;
+}
